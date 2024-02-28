@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/1204928"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/801355"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D022_9_15.tif"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
+    "@value": "1923-04"
+  },
+  "schema:identifier": [
+    "D-022, Box:9 Folder:15",
+    "ark:/87293/d3q52fj1g"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt1c6002bw/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "A-15, \"Board of Directors and Manager of California Almond Growers' Exchange\": A. R. Stephen, Lodi, CA; Manger, T. C. Tucker; C. D. Hamilton; V. C. Richards, Chico, CA; George W. Pierce, Jr., Davis, CA; E. S. Norton, Sutter County, CA. Lother and Young Studios of San Francisco, CA",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

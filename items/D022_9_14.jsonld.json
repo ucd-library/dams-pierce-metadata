@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Photograph",
+    "schema:ImageObject",
+    "schema:CreativeWork",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/801355"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1204928"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/D022_9_14.tif"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "1923-05-04"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3tx35b6s",
+    "D-022, Box:9 Folder:14"
+  ],
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/kt1c6002bw/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "A-14, \"Directors of California Almond Growers' Exchange,\" San Francisco, CA: E. S. Norton, South Butte; A. C. Woodworth, Lodi, CA; G. N. Talbot, Paso Robles; D. S. Nelson, Arbuckle, CA; Harry J. Wood; John Trembarth, Oakley, CA; George W. Pierce, Jr., President, Davis, CA; C. D. Hamilton, Banning, CA; T. C. Tucker, Oakland; James Miles, Hamilton City, CA. Lother and Young Studios of San Francisco, CA",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections"
+}

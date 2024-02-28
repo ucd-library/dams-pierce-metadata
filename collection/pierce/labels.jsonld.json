@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204928",
+    "http://schema.org/name": "California"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/801355",
+    "http://schema.org/name": "Agriculture"
+  }
+]
