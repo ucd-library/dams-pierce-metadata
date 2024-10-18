@@ -29,7 +29,10 @@
     "@value": "2023"
   },
   "schema:description": "The Pierce Family Papers (1841-1940) were created or collected by this prominent, pioneering Davisville, California (Davis) family. George W. Pierce, Jr. is played a significant role in the founding of the University of California, Davis by energetically campaigning to have the University Farm located in his hometown of Davisville. The portion of the collection presented here consists of photographs (1878-1929) of the Pierce Family; Yolo County and Sacramento Valley sites; agricultural activities on the Pierce Ranch near Davisville and other Yolo County locations; the California Almond Growers' Exchange; the University of California; and other topics. \n\n A complete inventory is available in the collection’s finding aid at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/kt1c6002bw/)",
-  "schema:identifier": "D-022",
+  "schema:identifier": [
+    "D-022",
+    "ark:/87293/d3z892n52"
+  ],
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d3rx93j4b/D022_9_21j.tif"
   },
