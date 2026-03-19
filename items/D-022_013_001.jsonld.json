@@ -35,7 +35,7 @@
     "@id": "@base:/media/images/D-022_013_001_0001.tif"
   },
   "schema:license": {
-    "@id": "https://rightsstatements.org/vocab/NoC-NC/1.0/"
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
   "schema:name": "Mrs. G. W. Pierce, with my love May Walker, circa 1901",
   "schema:sdDatePublished": {

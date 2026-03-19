@@ -38,7 +38,7 @@
     "@id": "@base:/media/images/D-022_013_002_0001.tif"
   },
   "schema:license": {
-    "@id": "https://rightsstatements.org/vocab/NoC-NC/1.0/"
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
   "schema:name": "Glen Alpine",
   "schema:sdDatePublished": {
